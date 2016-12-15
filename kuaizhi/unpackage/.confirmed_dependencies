@@ -1,0 +1,21 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "js/jquery-2.2.3.min.js",
+      "js/react.min.js",
+      "build/myapp.js",
+      "js/jquery.easing.min.js",
+      "fonts/mui.ttf",
+      "js/store+json2.min.js",
+      "js/jquery.min.js",
+      "js/myapp.js",
+      "build/myaps.js",
+      "js/myapp.min.js"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}
